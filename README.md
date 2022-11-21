@@ -17,7 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 🚀 Como executar
 
 #### 1. Rodar o Frontend
-- Clone este repositório: `git clone git@github.com:MariaEmiliaAlcantara/ignite-feed-typescript.git`
+- Clone este repositório: `git clone git@github.com:MariaEmiliaAlcantara/Ignite-Feed-Typescript.git`
 - Rode `npm install` para baixar as dependências
 - Rode o `npm run dev` para iniciar a aplicação
 - A aplicação estará disponível em `http://localhost:5173`!
